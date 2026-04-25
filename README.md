@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi there! I'm Chamindu, a passionate and curious Computer Science undergraduate at NSBM.<br>I'm currently diving into the world of programming, databases, and version control systems like Git and GitHub.<br><br>🎓 First-year CS student<br><br>💻 Learning Python, SQL, and Web Development<br><br>🚀 Exploring open-source and building personal projects<br><br>📚 Always eager to learn something new and grow as a developer<br><br>Let’s connect and grow together in the tech world! 🌱<br>
+👋 About Me<br><br>Hi there! I'm Chamindu, a passionate and curious Computer Science undergraduate at NSBM.<br>I'm currently diving into the world of programming, databases, and version control systems like Git and GitHub.<br><br>🎓 Second-year CS student<br><br>💻 Learning Python, SQL, and Web Development<br><br>🚀 Exploring open-source and building personal projects<br><br>📚 Always eager to learn something new and grow as a developer<br><br>Let’s connect and grow together in the tech world! 🌱<br>
 
 
 # 💻 Tech Stack:
