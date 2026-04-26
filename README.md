@@ -14,9 +14,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamindu-hansana)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chamindu@email.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-Chamindu18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chamindu18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindu-hansana-a0b39a362)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chamindu553@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://chamindu18.github.io/Chamindu-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Chamindu18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chamindu18)
 [![Visitors](https://komarev.com/ghpvc/?username=Chamindu18&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/Chamindu18)
 
 </div>
@@ -27,11 +28,12 @@
 
 I'm a second-year Computer Science undergraduate at NSBM Green University, Sri Lanka, focused on building full-stack web applications. I work primarily with **Java (Spring Boot)** on the backend and **React** on the frontend, connecting them through **REST APIs** backed by **MySQL**.
 
-I enjoy the engineering side of development — designing database schemas, structuring API layers, and making frontend and backend communicate cleanly. I'm actively building projects beyond coursework to grow my practical skills and I'm open to internship opportunities where I can contribute and learn in a real engineering environment.
+I enjoy the engineering side of development — designing database schemas, structuring API layers, and making frontend and backend communicate cleanly. I'm actively building projects beyond coursework to grow practical skills and I'm open to internship opportunities where I can contribute and learn in a real engineering environment.
 
 - 🔭 Currently working on: improving my **task-management-system** with JWT authentication and role-based access
 - 🌱 Learning: deeper Spring Boot patterns, Docker containerization, and PostgreSQL
-- 💡 Interested in: backend architecture, API design, and scalable system design
+- 💡 Interested in: backend architecture, API design, cybersecurity fundamentals, and scalable system design
+- 🌐 Live portfolio: [chamindu18.github.io/Chamindu-Portfolio](https://chamindu18.github.io/Chamindu-Portfolio/)
 - 📍 Based in Sri Lanka — open to remote opportunities
 
 ---
@@ -56,6 +58,7 @@ I enjoy the engineering side of development — designing database schemas, stru
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Databases**
 
@@ -76,32 +79,32 @@ I enjoy the engineering side of development — designing database schemas, stru
 ## 🚀 Featured Projects
 
 ### 🗂️ [Task Management System](https://github.com/Chamindu18/task-management-system)
-> A full-stack productivity application for creating, assigning, and tracking tasks across a team.
+> Full-stack enterprise task management application built as a team project with 6 members.
 
-- **What it does:** Users can register, log in, create tasks with due dates and priorities, assign them to team members, and track completion status through a dashboard.
-- **Technical highlights:** RESTful API built with Spring Boot; MySQL database with normalized relational schema; React frontend consuming the API with Axios; structured around MVC architecture on the backend.
-- **Stack:** `Spring Boot` `React` `MySQL` `REST API` `Maven`
-- ⭐ 3 stars
+- **What it does:** Users can register, log in, create tasks with due dates and priorities, assign them to team members, export reports, and track completion through an analytics dashboard.
+- **Technical highlights:** RESTful API with Spring Boot; JWT-based authentication and role-based access control; MySQL with normalized relational schema; React frontend consuming the API with Axios; PDF/CSV export functionality; admin analytics dashboard.
+- **Stack:** `Spring Boot` `React.js` `MySQL` `JWT Auth` `Bootstrap` `Maven`
+- 👥 Group Project (6 members) &nbsp;·&nbsp; ⭐ 3 stars
+
+---
+
+### 🌐 [Personal Portfolio Website](https://github.com/Chamindu18/Chamindu-Portfolio) &nbsp;·&nbsp; [🔗 Live Demo](https://chamindu18.github.io/Chamindu-Portfolio/)
+> A fully custom, animated developer portfolio — built from scratch with zero frameworks.
+
+- **What it does:** A multi-section portfolio showcasing projects, skills, education, and a working contact form — live on GitHub Pages.
+- **Technical highlights:** Orbital particle animation built with the HTML5 **Canvas API**; custom cursor with JavaScript; smooth scroll-triggered reveal animations; fully responsive with CSS Grid and Flexbox; contact form integrated with **Web3Forms API** — no backend needed; custom Syne + DM Mono font pairing for a distinctive design identity.
+- **Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Canvas API` `Web3Forms`
+- 👤 Solo Project &nbsp;·&nbsp; ⭐ 1 star
 
 ---
 
 ### ⚡ [SaaS Optimizer](https://github.com/Chamindu18/Saas-optimizer)
-> A JavaScript-based web tool designed to help users evaluate and optimize SaaS subscriptions and workflows.
+> A JavaScript-based web tool for evaluating and streamlining SaaS workflows.
 
-- **What it does:** Provides a clean UI for tracking software tools, surfacing cost and usage insights.
-- **Technical highlights:** Built with vanilla JavaScript with a focus on DOM manipulation and modular code structure; responsive layout using CSS Grid and Flexbox.
+- **What it does:** Clean UI for tracking software tools and surfacing workflow insights.
+- **Technical highlights:** Vanilla JavaScript with modular code structure; responsive layout using CSS Grid and Flexbox; DOM manipulation without frameworks.
 - **Stack:** `JavaScript` `HTML5` `CSS3`
-- ⭐ 1 star
-
----
-
-### 🌐 [AnimeWorld](https://github.com/Chamindu18/AnimeWorld)
-> A static front-end web project for discovering and browsing anime titles.
-
-- **What it does:** A clean, browsable anime catalogue page built as a front-end practice project.
-- **Technical highlights:** Semantic HTML5 structure; CSS styling with responsive layout principles.
-- **Stack:** `HTML5` `CSS3`
-- ⭐ 2 stars
+- 👤 Solo Project &nbsp;·&nbsp; ⭐ 1 star
 
 ---
 
