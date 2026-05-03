@@ -20,7 +20,6 @@
 
 - 🎓 2nd-year CS undergrad at **NSBM Green University**, Sri Lanka
 - 🔧 I build with **Spring Boot + React** — REST APIs, JWT auth, MySQL schemas
-- 🔭 Currently adding **role-based access control & Docker** to my task manager
 - 📖 Learning: deeper Spring patterns, PostgreSQL, containerisation
 - 🛡️ Interested in: backend architecture, API design, cybersecurity & scalable systems
 - 🌐 Portfolio → [chamindu18.github.io/Chamindu-Portfolio](https://chamindu18.github.io/Chamindu-Portfolio/)
