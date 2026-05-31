@@ -1,314 +1,323 @@
 <!-- ============================================================ -->
-<!--   ARCHITECT'S BLUEPRINT — CHAMINDU HANSANA GITHUB README     -->
+<!--   CHAMINDU HANSANA — GITHUB PROFILE README                   -->
+<!--   Design: Minimal Tokyo × Cosmic Constellation               -->
 <!-- ============================================================ -->
+
+<!-- ═══ COSMIC HEADER — animated star field + red slash ═══ -->
 
 <div align="center">
 
-<!-- BLUEPRINT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a1628,0d2137,0a1628&height=6&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,1a0000&height=220&section=header&text=CHAMINDU%20HANSANA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20CS%20Undergraduate%20·%20Open%20to%20Opportunities&descSize=14&descAlignY=58&descColor=ff3333" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&duration=1&pause=99999&color=4FC3F7&background=0D1628&center=true&vCenter=true&width=860&height=22&lines=SCHEMATIC+REV.+2.0+%7C+CLASSIFICATION%3A+OPEN+SOURCE+%7C+PREPARED+BY%3A+CHAMINDU+HANSANA+%7C+DATE%3A+2026+%7C+NSBM+GREEN+UNIVERSITY" alt="blueprint header"/>
+</div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│  PROJECT TITLE:  CHAMINDU HANSANA — FULL STACK DEVELOPER & CS UNDERGRADUATE                 │
-│  DOCUMENT NO:    CH-2026-001          REVISION: 2.0          SHEET: 1 OF 1                  │
-│  INSTITUTION:    NSBM GREEN University, Sri Lanka             TIMEZONE: UTC+05:30            │
-│  STATUS:         ◉ OPEN TO OPPORTUNITIES    SCALE: 1:1    UNIT: GITHUB PROFILE              │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<!-- ═══ LIVE STATUS + TYPING ANIMATION ═══ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=700&color=FF3333&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%94%A5;CS+Undergraduate+%40+NSBM+Green+University;Cybersecurity+Enthusiast+%F0%9F%94%90;Game+Developer+%F0%9F%8E%AE;AWS+%7C+React+%7C+Spring+Boot+%7C+Python;Open+to+Internships+%26+Collaborations" alt="Typing SVG"/>
+
+<br/><br/>
+
+![Status](https://img.shields.io/badge/●_OPEN_TO_OPPORTUNITIES-ff3333?style=flat-square&logoColor=white)
+&nbsp;
+![University](https://img.shields.io/badge/NSBM_Green_University-111111?style=flat-square&logo=academia&logoColor=ff3333)
+&nbsp;
+![Location](https://img.shields.io/badge/Sri_Lanka_🇱🇰-111111?style=flat-square&logoColor=white)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Chamindu18&label=PROFILE+VIEWS&color=ff3333&style=flat-square)
 
 </div>
 
 ---
 
-<!-- ═══════════════ SECTION A: SYSTEM OVERVIEW ═══════════════ -->
+<!-- ═══ RAZOR LINE DIVIDER ═══ -->
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION A ]  ▸  SYSTEM OVERVIEW & COMPONENT DESCRIPTION              ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<!-- ═══ ABOUT ═══ -->
+
+<br/>
+
+<table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="left" valign="top" width="420">
+<td valign="top" width="55%">
 
-```
-┌──────────────────────────────────────────────┐
-│  UNIT DESIGNATION: CHAMINDU HANSANA          │
-│  ALIAS: Chamindu18                           │
-│  CLASSIFICATION: CS Undergraduate · Year 2   │
-│  BASE OF OPERATIONS: NSBM Green University   │
-│  LOCATION: Colombo, Sri Lanka                │
-├──────────────────────────────────────────────┤
-│  PRIMARY SYSTEMS:                            │
-│   ├─ Full Stack Web Development              │
-│   ├─ Cybersecurity & Ethical Hacking         │
-│   ├─ Cloud Computing (AWS)                   │
-│   └─ Game Development (Canvas API)           │
-├──────────────────────────────────────────────┤
-│  SECONDARY MODULES:                          │
-│   ├─ AI & Prompt Engineering                 │
-│   ├─ Database Architecture                   │
-│   └─ Agile / Scrum Methodology               │
-├──────────────────────────────────────────────┤
-│  CONTACT ENDPOINTS:                          │
-│   ├─ chamindu553@gmail.com                   │
-│   ├─ github.com/Chamindu18                   │
-│   ├─ linkedin.com/in/chamindu-hansana        │
-│   └─ chamindu18.github.io/Chamindu-Portfolio │
-└──────────────────────────────────────────────┘
-```
+### `▸ WHO AM I`
+
+<br/>
+
+I'm **Chamindu** — a Computer Science undergraduate at **NSBM Green University**, Sri Lanka. I build full-stack applications, explore cybersecurity, and ship real software while others are still reading the syllabus.
+
+<br/>
+
+🔐 &nbsp; **Cybersecurity** — ethical hacking & digital defence<br/>
+🌐 &nbsp; **Full-Stack Dev** — React, Spring Boot, PHP, Python<br/>
+☁️ &nbsp; **Cloud** — AWS certified, cloud-first thinking<br/>
+🎮 &nbsp; **Game Dev** — browser games with Canvas API<br/>
+🚀 &nbsp; **Fast Learner** — 7 certs earned in 2026 alone<br/>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/chamindu553@gmail.com-111111?style=flat-square&logo=gmail&logoColor=ff3333)](mailto:chamindu553@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=ff3333)](https://www.linkedin.com/in/chamindu-hansana-a0b39a362/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=ff3333)](https://chamindu18.github.io/Chamindu-Portfolio/)
 
 </td>
-<td align="center" valign="top" width="420">
+<td valign="top" width="45%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=3000&pause=800&color=4FC3F7&background=0D1628&center=true&vCenter=true&multiline=true&width=400&height=130&lines=CHAMINDU+HANSANA;FULL+STACK+DEVELOPER;CS+UNDERGRADUATE;OPEN+TO+OPPORTUNITIES" alt="typing header"/>
+### `▸ AT A GLANCE`
 
 <br/>
 
 ```
-◈ SUBSYSTEMS ACTIVE ◈
-
-  [■■■■■■■■░░]  HTML & CSS        80%
-  [■■■■■■■░░░]  Java & Spring     70%
-  [■■■■■■■░░░]  JS & React        70%
-  [■■■■■■░░░░]  Python            65%
-  [■■■■■■░░░░]  PHP & MySQL       65%
-  [■■■■■░░░░░]  AWS & Cloud       55%
-  [■■■■■░░░░░]  AI Engineering    50%
+┌─────────────────────────────┐
+│                             │
+│   4+   Projects Shipped     │
+│                             │
+│   7    Certs Earned 2026    │
+│                             │
+│   2nd  Year CS Student      │
+│                             │
+│   ∞    Curiosity Level      │
+│                             │
+│   UTC+05:30  ·  Sri Lanka   │
+│                             │
+└─────────────────────────────┘
 ```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ═══════════════ SECTION B: TECH STACK SCHEMATIC ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION B ]  ▸  TECHNOLOGY STACK — COMPONENT MANIFEST                ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<!-- ═══ TECH STACK ═══ -->
+
+### <div align="center">`▸ TECH STACK`</div>
+
+<br/>
 
 <div align="center">
 
-**▸ FRONTEND LAYER**
+**Frontend**<br/>
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ff3333)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ff3333)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ff3333)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=ff3333)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=ff3333)
+![Canvas API](https://img.shields.io/badge/Canvas_API-111111?style=for-the-badge&logo=html5&logoColor=ff3333)
 
-![HTML5](https://img.shields.io/badge/HTML5-0a1628?style=flat-square&logo=html5&logoColor=4FC3F7&labelColor=0a1628)
-![CSS3](https://img.shields.io/badge/CSS3-0a1628?style=flat-square&logo=css3&logoColor=4FC3F7&labelColor=0a1628)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=4FC3F7&labelColor=0a1628)
-![React](https://img.shields.io/badge/React.js-0a1628?style=flat-square&logo=react&logoColor=4FC3F7&labelColor=0a1628)
-![Canvas API](https://img.shields.io/badge/Canvas_API-0a1628?style=flat-square&logo=html5&logoColor=4FC3F7&labelColor=0a1628)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a1628?style=flat-square&logo=bootstrap&logoColor=4FC3F7&labelColor=0a1628)
-![Web Audio API](https://img.shields.io/badge/Web_Audio_API-0a1628?style=flat-square&logo=webaudio&logoColor=4FC3F7&labelColor=0a1628)
+<br/>
 
-**▸ BACKEND LAYER**
+**Backend**<br/>
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ff3333)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=ff3333)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ff3333)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=ff3333)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=ff3333)
 
-![Java](https://img.shields.io/badge/Java-0a1628?style=flat-square&logo=openjdk&logoColor=4FC3F7&labelColor=0a1628)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=4FC3F7&labelColor=0a1628)
-![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=4FC3F7&labelColor=0a1628)
-![PHP](https://img.shields.io/badge/PHP-0a1628?style=flat-square&logo=php&logoColor=4FC3F7&labelColor=0a1628)
-![JWT](https://img.shields.io/badge/JWT_Auth-0a1628?style=flat-square&logo=jsonwebtokens&logoColor=4FC3F7&labelColor=0a1628)
+<br/>
 
-**▸ DATABASE LAYER**
+**Database**<br/>
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=ff3333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ff3333)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=ff3333)
 
-![MySQL](https://img.shields.io/badge/MySQL-0a1628?style=flat-square&logo=mysql&logoColor=4FC3F7&labelColor=0a1628)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4FC3F7&labelColor=0a1628)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=4FC3F7&labelColor=0a1628)
+<br/>
 
-**▸ CLOUD & AI LAYER**
-
-![AWS](https://img.shields.io/badge/AWS-0a1628?style=flat-square&logo=amazonaws&logoColor=4FC3F7&labelColor=0a1628)
-![Claude AI](https://img.shields.io/badge/Claude_AI-0a1628?style=flat-square&logo=anthropic&logoColor=4FC3F7&labelColor=0a1628)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0a1628?style=flat-square&logo=openai&logoColor=4FC3F7&labelColor=0a1628)
-
-**▸ TOOLCHAIN**
-
-![Git](https://img.shields.io/badge/Git-0a1628?style=flat-square&logo=git&logoColor=4FC3F7&labelColor=0a1628)
-![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=flat-square&logo=github&logoColor=4FC3F7&labelColor=0a1628)
-![VS Code](https://img.shields.io/badge/VS_Code-0a1628?style=flat-square&logo=visualstudiocode&logoColor=4FC3F7&labelColor=0a1628)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0a1628?style=flat-square&logo=intellijidea&logoColor=4FC3F7&labelColor=0a1628)
-![Postman](https://img.shields.io/badge/Postman-0a1628?style=flat-square&logo=postman&logoColor=4FC3F7&labelColor=0a1628)
+**Cloud · AI · Tools**<br/>
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=ff3333)
+![Claude AI](https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge&logo=anthropic&logoColor=ff3333)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff3333)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ff3333)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ff3333)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-111111?style=for-the-badge&logo=intellijidea&logoColor=ff3333)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=ff3333)
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════ SECTION C: PROJECT SCHEMATICS ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION C ]  ▸  DEPLOYED SYSTEMS — ENGINEERING SPECIFICATIONS         ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│  SUBSYSTEM-01: TASK MANAGEMENT SYSTEM                                                        │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  TYPE........: Full-Stack Enterprise Web Application        YEAR......: 2026                 │
-│  TEAM........: Group (6 members)                            STATUS....: Deployed             │
-│  STACK.......: Spring Boot · React.js · MySQL · JWT · Bootstrap                             │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  FEATURES....: Task CRUD Operations  ·  JWT Authentication  ·  Email Reminders              │
-│                PDF / CSV Export  ·  Admin Analytics Dashboard                               │
-│  SOURCE CODE.: https://github.com/Chamindu18/task-management-system                         │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
+<!-- ═══ PROJECTS ═══ -->
 
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│  SUBSYSTEM-02: SENTINEL DEFENSE (TOWER DEFENSE GAME)                                         │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  TYPE........: Browser-Based Game · Vanilla JS              YEAR......: 2026                 │
-│  TEAM........: Solo Project                                  STATUS....: LIVE                │
-│  STACK.......: JavaScript ES6+  ·  HTML5 Canvas  ·  CSS3  ·  Web Audio API                  │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  FEATURES....: 10 Waves · 4 Tower Types · 5 Enemy Variants · Particle FX                   │
-│                Web Audio Synthesis · Screen Shake · LocalStorage Save System                │
-│  LIVE DEMO...: https://chamindu18.github.io/sentinel-defense/                               │
-│  SOURCE CODE.: https://github.com/Chamindu18/sentinel-defense                               │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
+### <div align="center">`▸ PROJECTS`</div>
 
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│  SUBSYSTEM-03: SALON NILU — BEAUTY SALON PLATFORM                                            │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  TYPE........: Business Web Application                     YEAR......: 2025                 │
-│  TEAM........: Group (9 members)                            STATUS....: Deployed             │
-│  STACK.......: PHP  ·  MySQL  ·  HTML5/CSS3  ·  JavaScript  ·  Bootstrap 5                  │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  FEATURES....: Online Booking  ·  Service Catalog  ·  Customer Reviews                      │
-│                Admin Dashboard · Appointment & User Account Management                      │
-│  SOURCE CODE.: https://github.com/SanukaWaravita/SalonNilu                                  │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
+<br/>
 
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│  SUBSYSTEM-04: PERSONAL PORTFOLIO WEBSITE                                                    │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  TYPE........: Animated Portfolio · Solo                    YEAR......: 2026                 │
-│  TEAM........: Solo Project                                  STATUS....: LIVE                │
-│  STACK.......: HTML5  ·  CSS3  ·  JavaScript ES6+  ·  Canvas API  ·  Web3Forms              │
-│  ─────────────────────────────────────────────────────────────────────────────────────────  │
-│  FEATURES....: Orbital Canvas Animation  ·  Custom Cursor  ·  Smooth Scroll                 │
-│                Fully Responsive · Contact Form Integration (Web3Forms)                      │
-│  LIVE DEMO...: https://chamindu18.github.io/Chamindu-Portfolio/                             │
-│  SOURCE CODE.: https://github.com/Chamindu18/Chamindu-Portfolio                             │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<table border="0" align="center" width="95%" cellspacing="8" cellpadding="0">
 
----
+<tr>
+<td valign="top" width="50%">
 
-<!-- ═══════════════ SECTION D: CERTIFICATION MANIFEST ═══════════════ -->
+**`01 ·` Task Management System**<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=ff3333)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=ff3333)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=ff3333)
+![JWT](https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=ff3333)
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION D ]  ▸  CERTIFICATION MANIFEST — APPROVED QUALIFICATIONS      ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+Full-stack task platform with JWT auth, task CRUD, email reminders, PDF/CSV export, and an admin analytics dashboard. Group project · 6 members · 2026.
+
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/task-management-system)
+
+</td>
+<td valign="top" width="50%">
+
+**`02 ·` Sentinel Defense**<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=ff3333)
+![Canvas API](https://img.shields.io/badge/Canvas_API-111111?style=flat-square&logo=html5&logoColor=ff3333)
+![Web Audio](https://img.shields.io/badge/Web_Audio_API-111111?style=flat-square&logo=webaudio&logoColor=ff3333)
+
+Browser-based tower defense game. 10 waves · 4 tower types · 5 enemy variants · particle FX · screen shake · LocalStorage saves. Solo · 2026.
+
+[![Live](https://img.shields.io/badge/Live_Demo-ff3333?style=flat-square&logo=firefox&logoColor=white)](https://chamindu18.github.io/sentinel-defense/)
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/sentinel-defense)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="top" width="50%">
+
+**`03 ·` Salon Nilu — Beauty Salon**<br/>
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=ff3333)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=ff3333)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=ff3333)
+
+Full salon booking platform — online appointments, service catalog, customer reviews, complete admin dashboard. Group project · 9 members · 2025.
+
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/SanukaWaravita/SalonNilu)
+
+</td>
+<td valign="top" width="50%">
+
+**`04 ·` Portfolio Website**<br/>
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=ff3333)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=ff3333)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=ff3333)
+![Canvas API](https://img.shields.io/badge/Canvas_API-111111?style=flat-square&logo=html5&logoColor=ff3333)
+
+Animated portfolio with orbital canvas background, custom cursor, smooth scroll, and Web3Forms contact integration. Solo · 2026.
+
+[![Live](https://img.shields.io/badge/Live_Demo-ff3333?style=flat-square&logo=firefox&logoColor=white)](https://chamindu18.github.io/Chamindu-Portfolio/)
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/Chamindu-Portfolio)
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══ CERTIFICATIONS ═══ -->
+
+### <div align="center">`▸ CERTIFICATIONS`</div>
+
+<br/>
 
 <div align="center">
 
-| CERT ID | QUALIFICATION | ISSUER | DATE | VERIFY |
-|:---:|:---|:---|:---:|:---:|
-| `CERT-01` | AWS Cloud Practitioner Essential | Simplilearn SkillUP | Apr 2026 | [→ Link](https://simpli-web.app.link/e/tmrtyAmgG2b) |
-| `CERT-02` | Agile Scrum Master | Simplilearn SkillUP | May 2026 | [→ Link](https://simpli-web.app.link/e/S9IOffbXR2b) |
-| `CERT-03` | Introduction to MongoDB | Simplilearn SkillUP | May 2026 | [→ Link](https://simpli-web.app.link/e/MzaIFHeeR2b) |
-| `CERT-04` | AI Fluency: Framework & Foundations | Anthropic | May 2026 | [→ Link](https://verify.skilljar.com/c/vccd5xp68zpe) |
-| `CERT-05` | Claude 101 | Anthropic | 2026 | [→ Link](https://verify.skilljar.com/c/iv3fe95xz2sm) |
-| `CERT-06` | Claude Code 101 | Anthropic | Apr 2026 | [→ Link](https://verify.skilljar.com/c/gqeygquufsh2) |
-| `CERT-07` | EF SET English Certificate — C1 Advanced | EF SET | Apr 2026 | [→ Link](https://cert.efset.org/V6JepZ) |
+[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-111111?style=for-the-badge&logo=amazonaws&logoColor=ff3333)](https://simpli-web.app.link/e/tmrtyAmgG2b)
+[![Agile](https://img.shields.io/badge/Agile_Scrum_Master-111111?style=for-the-badge&logo=jira&logoColor=ff3333)](https://simpli-web.app.link/e/S9IOffbXR2b)
+[![MongoDB](https://img.shields.io/badge/MongoDB_Intro-111111?style=for-the-badge&logo=mongodb&logoColor=ff3333)](https://simpli-web.app.link/e/MzaIFHeeR2b)
+
+<br/>
+
+[![AI Fluency](https://img.shields.io/badge/AI_Fluency-Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=ff3333)](https://verify.skilljar.com/c/vccd5xp68zpe)
+[![Claude 101](https://img.shields.io/badge/Claude_101-Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=ff3333)](https://verify.skilljar.com/c/iv3fe95xz2sm)
+[![Claude Code](https://img.shields.io/badge/Claude_Code_101-Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=ff3333)](https://verify.skilljar.com/c/gqeygquufsh2)
+[![EF SET](https://img.shields.io/badge/EF_SET_English_C1_Advanced-111111?style=for-the-badge&logo=duolingo&logoColor=ff3333)](https://cert.efset.org/V6JepZ)
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════ SECTION E: SYSTEM METRICS ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION E ]  ▸  SYSTEM METRICS — LIVE TELEMETRY READOUT              ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<!-- ═══ GITHUB STATS ═══ -->
+
+### <div align="center">`▸ GITHUB STATS`</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chamindu18&show_icons=true&theme=transparent&hide_border=false&border_color=4FC3F7&title_color=4FC3F7&text_color=90CAF9&icon_color=4FC3F7&bg_color=0d1628&include_all_commits=true&count_private=false" height="160" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindu18&layout=compact&theme=transparent&hide_border=false&border_color=4FC3F7&title_color=4FC3F7&text_color=90CAF9&bg_color=0d1628&langs_count=6" height="160" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Chamindu18&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333&count_private=false" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chamindu18&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&langs_count=6" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Chamindu18&theme=transparent&hide_border=false&border=4FC3F7&ring=4FC3F7&fire=90CAF9&currStreakLabel=4FC3F7&sideLabels=4FC3F7&currStreakNum=90CAF9&sideNums=90CAF9&background=0d1628&dates=4FC3F7" height="160" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Chamindu18&hide_border=true&background=0d0d0d&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&stroke=ff3333" height="165" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamindu18&theme=react-dark&bg_color=0d1628&color=4FC3F7&line=4FC3F7&point=90CAF9&area=true&hide_border=false&border_color=4FC3F7&custom_title=COMMIT+ACTIVITY+GRAPH" height="160" alt="Activity Graph"/>
+<br/><br/>
 
-</div>
-
----
-
-<!-- ═══════════════ SECTION F: COMMIT TRAIL ═══════════════ -->
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION F ]  ▸  CONTRIBUTION TRACE — COMMIT ACTIVITY PATTERN         ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Chamindu18/Chamindu18/output/github-snake.svg" alt="Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamindu18&theme=react-dark&bg_color=0d0d0d&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY" width="95%" alt="Activity Graph"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════ SECTION G: EDUCATION ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [ SECTION G ]  ▸  EDUCATION & LEARNING PATHWAY                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-```
-ACADEMIC RECORD
-───────────────────────────────────────────────────────────────────────
-PROGRAMME...: BSc (Hons) Computer Science
-INSTITUTION.: NSBM Green University · Colombo, Sri Lanka
-PERIOD......: 2025 — Present (2nd Year, Active)
-MODULES.....: OOP with Java · Database Systems (MySQL, PostgreSQL, MongoDB)
-              Data Structures & Algorithms · Web Technologies
-              Cybersecurity Fundamentals
+<!-- ═══ CONTRIBUTION SNAKE ═══ -->
 
-SELF-DIRECTED LEARNING (Ongoing)
-───────────────────────────────────────────────────────────────────────
-FOCUS.......: Advanced JavaScript & ES6+ · React.js & Modern Frontend
-              Spring Boot & Microservices · Game Dev with Canvas API
-              AWS Cloud & DevOps · AI & Prompt Engineering
-```
+### <div align="center">`▸ COMMIT CONSTELLATION`</div>
 
----
+<br/>
 
-<!-- ═══════════════ TITLE BLOCK ═══════════════ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chamindu18/Chamindu18/output/github-snake.svg" alt="Contribution Snake" width="95%"/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                  TITLE BLOCK                                            ║
-╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  DESIGNED BY: Chamindu Hansana          INSTITUTION: NSBM Green University, Sri Lanka   ║
-║  CONTACT: chamindu553@gmail.com         GITHUB: github.com/Chamindu18                   ║
-║  PORTFOLIO: chamindu18.github.io        STATUS: Open to Internships & Collaborations    ║
-╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  DOCUMENT: CH-PROFILE-2026             REVISION: 2.0            SHEET: 1 OF 1           ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══ EDUCATION ═══ -->
+
+### <div align="center">`▸ EDUCATION`</div>
+
+<br/>
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Chamindu18&label=PROFILE+VIEWS&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+| | |
+|:---:|:---|
+| 🎓 | **BSc (Hons) Computer Science** — NSBM Green University, Sri Lanka · *2025 – Present* |
+| 📚 | OOP with Java · Database Systems · Data Structures & Algorithms · Web Technologies · Cybersecurity |
+| 💻 | Self-learning: React · Spring Boot · AWS · Game Dev · AI & Prompt Engineering |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a1628,0d2137,0a1628&height=6&section=footer" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ═══ FOOTER ═══ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a0000,0d0d0d&height=120&section=footer&text=Let's+build+something+together&fontSize=16&fontColor=ff3333&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+*"Built with consistency & curiosity — Chamindu Hansana"*
 
 </div>
