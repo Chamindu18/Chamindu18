@@ -70,7 +70,7 @@ Multi-role recruitment platform for candidates, recruiters, hiring managers and 
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=ff3333)
 ![EF Core](https://img.shields.io/badge/EF_Core-111111?style=flat-square&logo=dotnet&logoColor=ff3333)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=ff3333)<br/><br/>
-[![Source](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](TALENTFLOWOS_REPO_URL)
+[![Source](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/TalentFlowOS)
 
 </td>
 </tr>
