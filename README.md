@@ -116,8 +116,8 @@ Browser tower defense game with 10 waves, 4 tower types, 5 enemy types, collisio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chamindu18&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindu18&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&langs_count=6" height="165" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Chamindu18&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333&count_private=false" height="165" alt="GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chamindu18&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&langs_count=6" height="165" alt="Top languages"/>
 
 </div>
 
