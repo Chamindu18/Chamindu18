@@ -17,7 +17,7 @@
 
 ### `▸ ABOUT`
 
-3rd-year Computer Science undergraduate at **NSBM Green University** (graduating 2028). I build full-stack web and mobile applications with **React, Next.js, TypeScript, ASP.NET Core and PostgreSQL**, and I'm looking for a software engineering internship where I can learn from a professional team.
+3rd-year Computer Science undergraduate at **NSBM Green University** (graduating 2029). I build full-stack web and mobile applications with **React, Next.js, TypeScript, ASP.NET Core and PostgreSQL**, and I'm looking for a software engineering internship where I can learn from a professional team.
 
 - 🛒 Shipped **CampusX**, a full-stack marketplace deployed on Vercel
 - 🤝 Built recruitment, mobile and enterprise web apps in Git-based student teams
