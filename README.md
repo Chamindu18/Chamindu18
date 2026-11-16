@@ -17,16 +17,17 @@
 
 ### `▸ ABOUT`
 
-3rd-year **Computer Science undergraduate at NSBM Green University**, graduating in **2029**, with hands-on experience building full-stack web and mobile applications.
+3rd-year **Computer Science undergraduate at NSBM Green University**, graduating in **2029**, with hands-on experience building individual and team-based full-stack web and mobile applications.
 
-I work across **React, Next.js, TypeScript, ASP.NET Core, Spring Boot, Flutter, Firebase, PostgreSQL and MySQL**, with a strong interest in backend engineering, software architecture, secure application development and databases.
+I work with **Java, Spring Boot, React, Next.js, TypeScript, Node.js, ASP.NET Core, Flutter, PostgreSQL and MySQL**. My strengths and interests include backend development, problem-solving, secure authentication and authorization, database design, full-stack development, continuous learning and team collaboration.
 
 I am currently seeking a **Software Engineering / Full-Stack Development internship** where I can contribute to real products, strengthen my engineering fundamentals and learn from an experienced development team.
 
 - 🛒 Built and deployed **CampusX**, a full-stack student marketplace and dorm discovery platform
-- 🔐 Implemented authentication, authorization and security-focused workflows across multiple academic projects
-- 🤝 Worked in Git-based team projects using feature branches and shared integration workflows
-- 📚 Strong academic areas include OOP, Algorithms & Data Structures, Databases, Software Architecture, Operating Systems and Computer Networks
+- 📊 Developed **SeatWatch**, an individual software-license management MVP with role-based access, license tracking and estimated spending analytics
+- 🔐 Implemented secure authentication, authorization and related frontend workflows in **TalentFlowOS**, **PetCare+** and a **Task Management System**
+- 🤝 Collaborated on team projects using Git, feature branches and integration workflows
+- 📚 Confident academic areas include Object-Oriented Programming, Database Management Systems, Data Structures & Algorithms and Web Application Development
 
 <br/>
 
@@ -35,13 +36,13 @@ I am currently seeking a **Software Engineering / Full-Stack Development interns
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,java,dart&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cs,dart&theme=dark" /><br/><br/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /><br/><br/>
 
 **Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,spring,prisma,postgres,mysql&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,mysql,postgres,prisma&theme=dark" /><br/><br/>
 
 **Mobile & Cloud Services**<br/>
 <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" /><br/><br/>
@@ -50,7 +51,7 @@ I am currently seeking a **Software Engineering / Full-Stack Development interns
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea,vercel&theme=dark" /><br/><br/>
 
 **Familiar / Course-Level Exposure**<br/>
-<img src="https://skillicons.dev/icons?i=docker,mongodb,py,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,docker,mongodb,aws&theme=dark" />
 
 </div>
 
@@ -63,7 +64,7 @@ I am currently seeking a **Software Engineering / Full-Stack Development interns
 <td valign="top" width="50%">
 
 **CampusX** · *Solo Project*<br/>
-Full-stack student marketplace and dorm discovery platform with marketplace listings, dorm search, private messaging, notifications, saved listings, reporting and role-based administration.<br/><br/>
+Full-stack student marketplace and dorm discovery platform with listings, accommodation search, private messaging, notifications and saved items. Independently developed the frontend, APIs, database models, JWT authentication, role-based access and deployment.<br/><br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=ff3333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=ff3333)
@@ -76,8 +77,24 @@ Full-stack student marketplace and dorm discovery platform with marketplace list
 </td>
 <td valign="top" width="50%">
 
+**SeatWatch** · *Solo Project*<br/>
+Software-license management MVP for tracking employee assignments, reviewing estimated monthly spending and identifying potentially idle licenses from recorded activity. Developed the React interface, Express API, PostgreSQL data model, role-based authorization and automated tests.<br/><br/>
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=ff3333)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=ff3333)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=ff3333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=ff3333)<br/><br/>
+
+[![Source](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/Saas-optimizer)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
 **TalentFlowOS** · *Team Project*<br/>
-Multi-role recruitment and talent management platform built with ASP.NET Core Clean Architecture and React. My primary contribution focused on authentication, system integration and infrastructure.<br/><br/>
+Multi-role recruitment and talent management platform built with ASP.NET Core Clean Architecture and React. Built landing, login and registration pages, email verification and password recovery workflows, JWT authentication, role-based authorization and authentication tests.<br/><br/>
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111111?style=flat-square&logo=dotnet&logoColor=ff3333)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=ff3333)
@@ -87,13 +104,10 @@ Multi-role recruitment and talent management platform built with ASP.NET Core Cl
 [![Source](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/TalentFlowOS)
 
 </td>
-</tr>
-
-<tr>
 <td valign="top" width="50%">
 
 **PetCare+** · *Team Project*<br/>
-Flutter and Firebase mobile application for pet health, veterinary care and adoption. Contributed to authentication, notifications, adoption-related workflows and application integration.<br/><br/>
+Flutter and Firebase mobile application for pet owners, veterinary staff and adoption providers. Developed landing and authentication screens, password reset, role-based navigation and the Hospital Staff dashboard; contributed to Firestore Security Rules and integration testing.<br/><br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=ff3333)
 ![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=ff3333)
@@ -102,10 +116,13 @@ Flutter and Firebase mobile application for pet health, veterinary care and adop
 [![Source](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/petcare)
 
 </td>
+</tr>
+
+<tr>
 <td valign="top" width="50%">
 
 **Task Management System** · *Team Project*<br/>
-Full-stack task management application built with React, Spring Boot, Spring Security and MySQL. My contribution focused on authentication, security and the React authentication foundation.<br/><br/>
+Full-stack application for managing tasks and tracking progress. Implemented JWT authentication and authorization using Spring Security, plus React login and registration pages, authentication state, protected routes and API integration.<br/><br/>
 
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=ff3333)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=ff3333)
@@ -114,13 +131,10 @@ Full-stack task management application built with React, Spring Boot, Spring Sec
 [![Source](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/Chamindu18/task-management-system)
 
 </td>
-</tr>
-
-<tr>
-<td valign="top" colspan="2">
+<td valign="top" width="50%">
 
 **Sentinel Defense** · *Solo Project*<br/>
-Browser-based tower defense game built with vanilla JavaScript and the HTML5 Canvas API, featuring 10 waves, multiple tower and enemy types, collision logic, area-of-effect mechanics and local save/load support.<br/><br/>
+Browser-based tower defense game developed with vanilla JavaScript and HTML5 Canvas. Independently implemented the game loop, 10 enemy waves, multiple tower and enemy classes, collision detection, procedural audio and local save/load functionality.<br/><br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=ff3333)
 ![Canvas](https://img.shields.io/badge/Canvas_API-111111?style=flat-square&logo=html5&logoColor=ff3333)<br/><br/>
@@ -148,20 +162,24 @@ Browser-based tower defense game built with vanilla JavaScript and the HTML5 Can
 ### `▸ EDUCATION & TRAINING`
 
 🎓 **BSc (Hons) in Computer Science**, NSBM Green University · **2025 – 2029 (Expected)** · GPA **3.84/4.00**<br/>
-📚 AWS Cloud Practitioner Essentials · Getting Started with DevOps on AWS · Agile Scrum Master · AI Fluency (Anthropic)
+📜 **Software Engineer Intern — Role Certification**, HackerRank · Nov 2026<br/>
+🔐 **Authentication and Authorization for Web/API (LFEL1004)**, The Linux Foundation · Nov 2026<br/>
+📚 Getting Started with DevOps on AWS · AWS Cloud Practitioner Essentials · Agile Scrum Master · Introduction to MongoDB
 
 <br/>
 
 ### `▸ CURRENT FOCUS`
 
 - Preparing for a **Software Engineering / Full-Stack Development internship**
-- Strengthening problem solving, backend engineering and system design fundamentals
+- Strengthening Java, problem-solving, backend engineering and system design fundamentals
 - Building secure, maintainable applications with modern web and mobile technologies
+
+<br/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a0000,0d0d0d&height=100&section=footer&text=Open%20to%20internships%20%26%20collaboration&fontSize=15&fontColor=ff3333&fontAlignY=65" width="100%"/>
+![Open to Internships](https://img.shields.io/badge/OPEN_TO_INTERNSHIPS_%26_COLLABORATION-111111?style=for-the-badge&labelColor=0d0d0d&color=ff3333)
 
 </div>
